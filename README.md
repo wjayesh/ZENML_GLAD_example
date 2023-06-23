@@ -1,2 +1,2 @@
 # ZENML_GLAD_example
-Packaging and saving a GLAD model in this git repository to be used and run in ZENML flow
+Packaging and saving a GLAD model in this git repository to be used and run in ZENML flow.
